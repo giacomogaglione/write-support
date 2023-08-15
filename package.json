@@ -29,7 +29,7 @@
     "class-variance-authority": "^0.4.0",
     "clsx": "^1.2.1",
     "eventsource-parser": "^1.0.0",
-    "lucide-react": "^0.263.1",
+    "lucide-react": "^0.268.0",
     "next": "^13.4.10",
     "next-intl": "^3.0.0-beta.9",
     "next-themes": "^0.2.1",
