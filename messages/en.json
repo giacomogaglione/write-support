@@ -1,0 +1,28 @@
+{
+  "Index": {
+    "subtitle": "Effortless Writing Assistance for ADHD and Dysorthography"
+  },
+  "Header": {
+    "login": "Log In",
+    "signup": "Sign Up"
+  },
+  "Form": {
+    "textareaplaceholder": "Insert here your text to be corrected",
+    "correctbutton": "Correct",
+    "correctbuttonloading": "Correcting",
+    "copybutton": "Copy",
+    "clearbutton": "Clear",
+    "rephrasebutton": "Rephrase"
+  },
+  "SelectFormField" :{
+    "it": "Italian",
+    "en": "English",
+    "es": "Spanish",
+    "de": "Deutch",
+    "fr": "French"
+  },
+  "RadioGroupFormField" :{
+    "ortography": "Grammar",
+    "rephrase": "Rephrase"
+  }
+}

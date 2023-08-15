@@ -1,0 +1,28 @@
+{
+  "Index": {
+    "subtitle": "Scrittura Intelligente senza sforzo per ADHD e Disortografia"
+  },
+  "Header": {
+    "login": "Accedi",
+    "signup": "Registrati"
+  },
+  "Form": {
+    "textareaplaceholder": "Inserisci qui il tuo testo",
+    "correctbutton": "Correggi",
+    "correctbuttonloading": "Correzione in corso..",
+    "copybutton": "Copia",
+    "clearbutton": "Cancella",
+    "rephrasebutton": "Parafrasa"
+  },
+  "SelectFormField" :{
+    "it": "Italiano",
+    "en": "Inglese",
+    "es": "Spagnolo",
+    "de": "Tedesco",
+    "fr": "Francese"
+  },
+  "RadioGroupFormField" :{
+    "ortography": "Ortografia",
+    "rephrase": "Parafrasi"
+  }
+}
