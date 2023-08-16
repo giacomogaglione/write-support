@@ -8,11 +8,10 @@ import { defaultValues, type FormData } from "@/types/types"
 import { generateCorrection } from "@/lib/generate-correction"
 import { generatePrompt } from "@/lib/generate-prompt"
 import { cn } from "@/lib/utils"
+import { Button } from "@/components/ui/button"
+import { CopyButton } from "@/components/copy-button"
 import { CorrectionForm } from "@/components/form/correction-form"
 import { GeneratedCorrectionContent } from "@/components/generated-correction-content"
-
-import { CopyButton } from "@/components/copy-button"
-import { Button } from "@/components/ui/button"
 
 export function GenerateCorrection() {
   const [generatedCorrection, setGeneratedCorrection] = useState<string>("")

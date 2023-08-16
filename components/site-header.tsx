@@ -18,10 +18,9 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import { Icons } from "@/components/icons"
+import { LanguageDropdown } from "@/components/language-dropdown"
 import { MainNav } from "@/components/main-nav"
 import { ThemeToggle } from "@/components/theme-toggle"
-
-import { LanguageDropdown } from "@/components/language-dropdown"
 
 interface SiteHeaderProps {
   user: User | null
@@ -129,7 +128,6 @@ export function SiteHeader({ user }: SiteHeaderProps) {
                 className={buttonVariants({
                   size: "sm",
                   variant: "ghost",
-                  
                 })}
               >
                 <Icons.gitHub className="h-4 w-4 md:h-5 md:w-5" />

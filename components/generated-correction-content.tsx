@@ -2,7 +2,11 @@
 
 import React, { useEffect, useRef } from "react"
 
-export function GeneratedCorrectionContent({ correction }: { correction: string }) {
+export function GeneratedCorrectionContent({
+  correction,
+}: {
+  correction: string
+}) {
   const correctionRef = useRef<HTMLDivElement | null>(null)
 
   useEffect(() => {

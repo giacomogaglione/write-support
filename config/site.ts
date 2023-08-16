@@ -4,7 +4,8 @@ export const siteConfig = {
   name: "Write Support",
   url: "https://writesupport.vercel.app",
   ogImage: "https://writesupport.vercel.app/og.png",
-  description: "Empowering Your Words: Grammar Aid Tailored to ADHD and Dysorthography.",
+  description:
+    "Empowering Your Words: Grammar Aid Tailored to ADHD and Dysorthography.",
   mainNav: [
     {
       title: "",

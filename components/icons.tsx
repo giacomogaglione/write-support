@@ -1,18 +1,18 @@
 import {
-  PenLine,
+  Activity,
+  FileType2,
+  Globe,
+  Loader2,
+  LogOut,
   LucideProps,
   Moon,
+  PenLine,
+  Scroll,
+  Settings,
   SunMedium,
+  Terminal,
   Twitter,
   User,
-  Terminal,
-  Settings,
-  LogOut,
-  Activity,
-  Globe,
-  FileType2,
-  Scroll,
-  Loader2,
 } from "lucide-react"
 
 export const Icons = {
