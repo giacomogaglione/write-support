@@ -10,7 +10,9 @@ const publicRoutes = [
   "/it",
   "/en",
   "/it/sign-in",
-  "/en/sign-in"
+  "/en/sign-in",
+  "/it/sign-up",
+  "/en/sign-up",
 ]
 
 const intlMiddleware = createMiddleware({
