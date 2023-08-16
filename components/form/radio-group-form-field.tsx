@@ -10,11 +10,11 @@ import {
   FormLabel,
 } from "@/components/ui/form"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
-import { Icons, type Icon } from "@/components/icons"
+import { Icons } from "@/components/icons"
 
 interface RadioGroupOption {
   value: string
-  icon: Icon
+  icon: any
 }
 
 interface RadioGroupFormFieldProps {
